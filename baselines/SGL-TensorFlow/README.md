@@ -1,0 +1,1 @@
+This project utilizes the source code from [SGL](https://github.com/wujcan/SGL-TensorFlow). We have made certain modifications to adapt it to our specific dataset.
